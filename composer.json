@@ -1,5 +1,5 @@
 {
-	"name" : "wabel/zoho-crm-sync",
+	"name" : "stmaxvl/zoho-crm-sync",
 	"description" : "This package contains code to help you synchronize ZohoCRM records with your database. ",
 	"type" : "library",
 	"homepage" : "http://mouf-php.com",
@@ -12,7 +12,7 @@
 	],
 	"require" : {
 		"php" : ">=5.4",
-		"wabel/zoho-crm-orm": "~1.0"
+		"stmaxvl/zoho-crm-orm": "~1.0"
 	},
   "require-dev" : {
 	  "phpunit/phpunit": "~4.0",
